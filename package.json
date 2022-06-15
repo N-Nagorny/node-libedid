@@ -1,0 +1,21 @@
+{
+  "name": "libedid",
+  "version": "1.0.0",
+  "main": "node-libedid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-Nagorny/node-libedid.git"
+  },
+  "author": "N-Nagorny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N-Nagorny/node-libedid/issues"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^5.0.0"
+  }
+}
